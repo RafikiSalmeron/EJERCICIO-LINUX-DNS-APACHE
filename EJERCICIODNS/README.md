@@ -119,3 +119,24 @@ Reiniciamos el demonio.
 ~~~
 sudo service apache2 restart
 ~~~
+
+## SERVIDOR FTP
+**INSTALAREMOS VSFTPD**
+~~~
+sudo apt-get install vsftpd
+~~~
+
+Lo configuraremos y procederemos a ver el status:
+
+![status ftp](../img/ftp.PNG)
+
+
+## ENTORNO GRÁFICO
+
+Ahora procederemos a introducir en nuestro navegador las direcciones que hemos configurado en el Servidor DNS y APACHE:
+
+![WEB www.sitioa.com](../img/www.sitioa.com.JPG)
+
+![WEB www.sitiob.net](../img/www.sitiob.com.JPG)
+
+![WEB www.sitioc.net](../img/www.sitioc.com.JPG)
