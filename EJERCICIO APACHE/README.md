@@ -57,7 +57,7 @@ www.gato.com
 ~~~
 www.mosquito.com
 ~~~
-![config mosquito](../img/confimosquito.PNG)
+![config mosquito](../img/configmosquito.PNG)
 ~~~
 www.escherichiacoli.es
 ~~~
