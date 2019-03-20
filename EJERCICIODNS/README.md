@@ -1,4 +1,4 @@
-#EJERCICIO DNS
+# EJERCICIO DNS
 
 ~~~
 Crear un servidor DNS con las siguientes zonas:  
