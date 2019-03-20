@@ -1,5 +1,6 @@
 # EJERCICIO DNS
 
+## CONFIGURACIÓN DNS
 ~~~
 Crear un servidor DNS con las siguientes zonas:  
 - sitioa.com  
@@ -51,3 +52,16 @@ sitioc.net
 ~~~
 host www.sitioa.com
 ~~~
+
+
+## CONFIGURACIÓN APACHE Y FTP
+
+**EL SERVIDOR WEB TIENE QUE SER RAID 5:**
+![SERVER RAID5](../img/FOTORAID5.PNG)
+
+**UNA VEZ INSTALADO EL SISTEMA, INSTALAREMOS APACHE2**
+~~~
+sudo apt-get install apache2
+~~~
+
+### CREACIÍN DE HOST VIRTUALES
