@@ -57,7 +57,7 @@ www.gato.com
 ~~~
 www.mosquito.com
 ~~~
-![config mosquito](../img/confimosquitogato.PNG)
+![config mosquito](../img/confimosquito.PNG)
 ~~~
 www.escherichiacoli.es
 ~~~
@@ -157,5 +157,5 @@ Ahora procederemos a introducir en nuestro navegador las direcciones que hemos c
 
 ![WEB www.escherichiacoli.es](../img/bacteria.png)
 
-![WEB www.chip555.org](../img/chip55.png)
+![WEB www.chip555.org](../img/chip555.png)
 
