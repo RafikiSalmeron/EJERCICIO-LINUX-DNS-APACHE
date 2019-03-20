@@ -1,5 +1,5 @@
-##EJERCICIO DNS
-
+#EJERCICIO DNS
+~~~
 Crear un servidor DNS con las siguientes zonas:  
 - sitioa.com  
     - www web con información de java.  
@@ -13,3 +13,7 @@ Crear un servidor DNS con las siguientes zonas:
 Crear una máquina virtual con un entorno gráfico. Esta accederá a los sitios web.  
 El servidor DNS será RAID 0.  
 Los Servidores web ftp serán RAID 5.
+~~~
+
+EL SERVIDOR DNS TIENE QUE SER RAID 0:
+![SERVER RAID0](../IMG/FOTORAID0.JPG)
