@@ -1,4 +1,5 @@
-##EJERCICIO DNS
+#EJERCICIO DNS
+
 ~~~
 Crear un servidor DNS con las siguientes zonas:  
 - sitioa.com  
@@ -41,7 +42,7 @@ sitioc.net
 ~~~
 ![sitiocdirecta](../img/ZonaDirectaC.PNG)
 
-**REINICIAMOS EL DEMONIO DE BIND **
+**REINICIAMOS EL DEMONIO DE BIND**
 ~~~
 /etc/init.d/bind9 restart
 ~~~
